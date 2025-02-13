@@ -1,6 +1,6 @@
 package Ex_05_Type_Casting;
 
-public class Lab_058_TypeCasting_Narrowing {
+public class Lab058_TypeCasting_Narrowing {
 
     public static void main(String[] args) {
         int val = 200;

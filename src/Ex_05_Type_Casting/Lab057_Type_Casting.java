@@ -1,6 +1,6 @@
 package Ex_05_Type_Casting;
 
-public class Lab_057_Type_Casting {
+public class Lab057_Type_Casting {
 
     public static void main(String[] args) {
 

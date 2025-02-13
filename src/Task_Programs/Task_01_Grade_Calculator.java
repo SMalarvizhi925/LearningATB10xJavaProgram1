@@ -1,4 +1,4 @@
-package Task_Practice_Question;
+package Task_Programs;
 
 public class Task_01_Grade_Calculator {
 
